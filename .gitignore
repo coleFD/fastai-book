@@ -1,0 +1,6 @@
+.env
+*.jpeg
+*.jpg 
+*.JPG
+*.png
+*.PNG
